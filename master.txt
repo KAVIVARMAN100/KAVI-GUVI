@@ -1,0 +1,12 @@
+When JavaScript is executed inside the browser, the window object is the JavaScript Global object.
+
+No the window object is NOT the Global object.
+
+When JavaScript is run in a browser all variables and functions you create are properties and methods
+ of the window object.
+
+You can access but not change any of the properties and methods of the Global object and you can override
+ them be defining a similarly named property or method on the window object but they are still two entirely 
+ separate objects.
+
+window is a property of the Global object when you run JavaScript in a web browser.
