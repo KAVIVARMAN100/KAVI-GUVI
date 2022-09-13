@@ -1,4 +1,7 @@
+diff b/w doc & windows
+
 When JavaScript is executed inside the browser, the window object is the JavaScript Global object.
+
 
 No the window object is NOT the Global object.
 
